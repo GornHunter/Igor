@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\PROJEKAT\Projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\PROJEKAT\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\PROJEKAT\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PROJEKAT\Projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\PROJEKAT\Projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver\Projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver\Projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver\Projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver_radi\Projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver_radi\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver_radi\Projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver_radi\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver_radi\Projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\PROJEKAT_Imre_dodatak_gotika_silver_radi\Projekat\Common\obj\Debug\Common.pdb
